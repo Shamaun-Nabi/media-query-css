@@ -2,6 +2,7 @@
 CSS Media Query
 
 
+```Javascript
 @media (min-width: 1281px) and (max-width: 1366px) {
 
 }
@@ -40,3 +41,4 @@ CSS Media Query
 @media (min-width: 320px) and (max-width: 481px) {
 
 }
+```
